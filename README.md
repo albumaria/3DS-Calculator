@@ -7,7 +7,7 @@ I've drawn all of the buttons myself, and the calculator itself is quite bad, bu
 
 ---
 
-*Tiny demo:*
+*Demo:*
 
 
 
